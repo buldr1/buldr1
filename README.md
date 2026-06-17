@@ -1,15 +1,15 @@
 # Olá, eu sou o Lucas 👋
 
-Sou Técnico de Suporte em TI, estudante de Engenharia da Computação e atuo com suporte técnico em soluções de Managed File Transfer, com foco em Axway Transfer CFT e SecureTransport.
+Sou Técnico de Suporte em TI, fomardo em Engenharia da Computação e atuo com suporte técnico em soluções de Managed File Transfer, com foco em Axway Transfer CFT e SecureTransport.
 
 Atualmente trabalho no atendimento de chamados técnicos para clientes LATAM, fazendo parte do time Americas, com foco em troubleshooting, análise de ambientes, testes em laboratório e apoio técnico em soluções MFT.
 
 ## 🚀 Sobre mim
 
 - 💻 Técnico de Suporte TI
-- 🎓 Estudante de Engenharia da Computação
+- 🎓 Engenheiro da Computação
 - 🔐 Atuação com Managed File Transfer
-- 🌎 Suporte técnico para clientes LATAM
+- 🌎 Suporte técnico para clientes LATAM e NA
 - 🧪 Experiência com testes em laboratório e simulações técnicas
 - 🐧 Interesse em Linux, servidores, Docker e automação
 - 📚 Estudando continuamente Transfer CFT, SecureTransport, APIs e troubleshooting
