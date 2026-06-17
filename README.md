@@ -6,13 +6,12 @@ Atualmente trabalho no atendimento de chamados técnicos para clientes LATAM, fa
 
 ## 🚀 Sobre mim
 
-- 💻 Técnico de Suporte TI
+- 💻 Customer Tech Support Engineer I 
 - 🎓 Engenheiro da Computação
 - 🔐 Atuação com Managed File Transfer
 - 🌎 Suporte técnico para clientes LATAM e NA
 - 🧪 Experiência com testes em laboratório e simulações técnicas
 - 🐧 Interesse em Linux, servidores, Docker e automação
-- 📚 Estudando continuamente Transfer CFT, SecureTransport, APIs e troubleshooting
 
 ## 🛠️ Tecnologias e ferramentas
 
