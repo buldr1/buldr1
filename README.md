@@ -2,7 +2,7 @@
 
 Sou Técnico de Suporte em TI, fomardo em Engenharia da Computação e atuo com suporte técnico em soluções de Managed File Transfer, com foco em Axway Transfer CFT e SecureTransport.
 
-Atualmente trabalho no atendimento de chamados técnicos para clientes LATAM, fazendo parte do time Americas, com foco em troubleshooting, análise de ambientes, testes em laboratório e apoio técnico em soluções MFT.
+Atualmente trabalho no atendimento de chamados técnicos para clientes LATAM e NA, fazendo parte do time Americas, com foco em troubleshooting, análise de ambientes, testes em laboratório e apoio técnico em soluções MFT.
 
 ## 🚀 Sobre mim
 
@@ -24,6 +24,7 @@ Atualmente trabalho no atendimento de chamados técnicos para clientes LATAM, fa
 
 ## 🔐 Áreas de interesse
 
+- Linguagens de Programação
 - Managed File Transfer
 - SFTP, TLS/SSL, OpenPGP e certificados
 - Linux administration
@@ -34,6 +35,7 @@ Atualmente trabalho no atendimento de chamados técnicos para clientes LATAM, fa
 
 ## 📌 Atualmente estudando
 
+- Python
 - Linux Server
 - Docker
 - REST APIs
