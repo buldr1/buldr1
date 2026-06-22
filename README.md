@@ -1,16 +1,16 @@
-# Hello 👋
+# Hello World👋
 
-Sou Técnico de Suporte, fomardo em Engenharia da Computação e atuo com suporte técnico em soluções de Managed File Transfer.
+I am a Support Technician with a degree in Computer Engineering and I work providing technical support for Managed File Transfer solutions.
 
-Atualmente trabalho na Axway Software no atendimento de chamados técnicos para clientes LATAM e NA, fazendo parte do time Americas, com foco em troubleshooting, análise de ambientes, testes em laboratório e apoio técnico em soluções MFT.
+Currently, I work at Axway Software handling technical support requests for LATAM and NA clients, as part of the Americas team, focusing on troubleshooting, environment analysis, lab testing, and technical support for MFT solutions.
 
-## 🚀 Sobre mim
+## 🚀 About me
 
 - 💻 Customer Tech Support Engineer I 
-- 🎓 Engenheiro da Computação
+- 🎓 Computer Engineer
 
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Technologies and tools
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-000?style=for-the-badge&logo=windows)
@@ -24,7 +24,7 @@ Atualmente trabalho na Axway Software no atendimento de chamados técnicos para 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buldr1&layout=compact&theme=dark)
 
-## 📫 Contato
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/lucasbelliobuldrini/
 - GitHub: buldr1
