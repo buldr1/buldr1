@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas 👋
 
-Sou Técnico de Suporte em TI, fomardo em Engenharia da Computação e atuo com suporte técnico em soluções de Managed File Transfer.
+Sou Técnico de Suporte, fomardo em Engenharia da Computação e atuo com suporte técnico em soluções de Managed File Transfer.
 
 Atualmente trabalho na Axway Software no atendimento de chamados técnicos para clientes LATAM e NA, fazendo parte do time Americas, com foco em troubleshooting, análise de ambientes, testes em laboratório e apoio técnico em soluções MFT.
 
