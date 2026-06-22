@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas 👋
+# Hello 👋
 
 Sou Técnico de Suporte, fomardo em Engenharia da Computação e atuo com suporte técnico em soluções de Managed File Transfer.
 
